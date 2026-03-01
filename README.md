@@ -10,7 +10,7 @@ For this assignment, you will start with the provided Scanner template.  You wil
    <li>peekChar</li>
 </ul>
 
-You can view the Scanner JavaDocs here.
+You can view the Scanner JavaDocs [here](javadocs/index.html).
 
 You will also provide errors for invalid syntax.
 
